@@ -1,8 +1,8 @@
 //===========================================================================
 // GameMain.cpp
 //
-// Purpose: Demonstration of programming assignment 4
-// Author: Dr. Rick Coleman
+// 
+// Author: Layiwola Tobi
 //===========================================================================
 #include <iostream>
 #include <string.h>
