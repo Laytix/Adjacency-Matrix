@@ -2,7 +2,7 @@
 // File: GameGraph.h
 // Purpose: Header file for a D&D game class
 // Programming Language: C++
-// Author: Dr. Rick Coleman
+// Author: Layiwola Tobi
 //---------------------------------------------------------------
 #ifndef GAMEGRAPH_H
 #define GAMEGRAPH_H
