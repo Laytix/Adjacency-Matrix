@@ -10,3 +10,5 @@ The program will thell you where there is a romm but unfortunately i couldn't fi
 The gamelayout.txt is the map of the game.
 
 This program was given as an assingment in my university and have gotten permission to add it.
+
+PS:My professor's name has been edited out some files, but those files were given to us so we were not allowed to modify it only use it to build on the .cpp files.
